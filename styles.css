@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+form, #removeImages {
+    margin: 20px;
+}
+
+#gifContainer img {
+    margin: 10px;
+    max-width: 200px;
+}
